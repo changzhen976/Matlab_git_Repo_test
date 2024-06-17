@@ -1,1 +1,4 @@
 # List of untracked files to ignore
+*_ert_rtw/
+*_autosar_rtw/
+slprj/
